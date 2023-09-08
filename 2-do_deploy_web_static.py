@@ -65,4 +65,4 @@ def do_deploy(archive_path):
         success = True
     except Exception:
         success = False
-    return success 
+    return success
